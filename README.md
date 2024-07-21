@@ -17,7 +17,6 @@ Use the following naming conventions for your branches:
 | **Staging Branch**      | `staging`                  | Branch containing code that is ready for staging before production deployment.|  |
 | **Main/Production Branch**| `main` or `master`      | Branch containing stable, production-ready code. |                               |
 
-Sure! Here is the information presented in a table format using Markdown:
 
 ### Commit Message Conventions
 
