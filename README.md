@@ -8,9 +8,9 @@ Use the following naming conventions for your branches:
 
 | **Branch Type**         | **Branch Name**            | **Description**                                  | **Example**                   |
 |-------------------------|----------------------------|--------------------------------------------------|-------------------------------|
-| **Feature Branches**    | `feature/featurename`     | Branch for implementing new features.            | `feature/pwm_module`          |
-| **Bugfix Branches**     | `bugfix/bugname`           | Branch for fixing bugs.                          | `bugfix/fix_login_issue`      |
-| **Hotfix Branches**     | `hotfix/hotfixname`        | Branch for urgent fixes in production.           | `hotfix/urgent_security_fix`  |
+| **Feature Branches**    | `feature/featurename`     | Branch for implementing new features.            | `feature/pwm-module`          |
+| **Bugfix Branches**     | `bugfix/bugname`           | Branch for fixing bugs.                          | `bugfix/fix-login-issue`      |
+| **Hotfix Branches**     | `hotfix/hotfixname`        | Branch for urgent fixes in production.           | `hotfix/urgent-security-fix`  |
 | **Release Branches**    | `release/releasename`      | Branch for preparing a new release.              | `release/v1.2.0`              |
 | **Development Branch**  | `dev`                  | Branch containing the latest development changes.|                               |
 | **Test Branch**         | `test`                     | Branch containing code that is currently in testing.|                           |
