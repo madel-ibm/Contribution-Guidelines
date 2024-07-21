@@ -1,6 +1,7 @@
 # Contributing Guidelines
 
-Thank you for contributing to our project! To maintain a consistent and clean codebase, please follow these guidelines when working with Git.
+Thank you for your contributions! To ensure a consistent and organized codebase across our projects, please follow these Git guidelines:
+
 
 ## Branch Naming Conventions
 
