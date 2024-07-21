@@ -58,10 +58,6 @@ We use a Git Flow-inspired workflow to manage our branches. Here's a simplified 
 
 ### VS Code Extensions
 
-Certainly! Here's the updated section with **SonarLint** included:
-
-### VS Code Extensions
-
 | **Extension**                               | **Description**                                           |
 |---------------------------------------------|-----------------------------------------------------------|
 | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)               | Automatically formats code to ensure consistent style.    |
