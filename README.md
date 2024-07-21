@@ -44,7 +44,7 @@ We use a Git Flow-inspired workflow to manage our branches. Here's a simplified 
 
 | **Branch Name** | **Description**                                                      |
 |-----------------|----------------------------------------------------------------------|
-| **main**        | Contains stable, production-ready code.                              |
+| **main/master**        | Contains stable, production-ready code.                              |
 | **dev**         | Contains the latest development changes.                             |
 | **test**        | Contains code that is currently in testing.                          |
 | **staging**     | Contains code that is ready for staging before production deployment. |
