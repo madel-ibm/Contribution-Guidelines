@@ -63,7 +63,6 @@ We use a Git Flow-inspired workflow to manage our branches. Here's a simplified 
 | [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                                  | Lints JavaScript and TypeScript code to enforce coding standards. |
 | [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                                 | Provides detailed Git insights and history in the editor. |
 | [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)      | Detects and highlights spelling errors in code.    
-| [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)                  | Colors matching brackets to make code easier to read.     |
 | [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                | Provides a set of icons to customize file and folder visuals. |
 | [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)                     | Provides on-the-fly code quality and security feedback.    |
 
